@@ -1,5 +1,5 @@
 - 👋 Hi, I’m NIKHIL SUNNY
-- 👀 I’m interested in .Micro controller coding
+- 👀 I’m interested in Micro controller coding
 - 🌱 I’m currently exploring autosar BSW software developement
 - 📫 reach me via nikhilsunny2200@gmail.com for support
 
